@@ -33,7 +33,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/HelloVision.git
+   git clone https://github.com/riyann00b/HelloVision.git
    cd HelloVision
    ```
 
@@ -54,9 +54,14 @@ Customize the behavior by modifying the variables in the script:
 
 ---
 
-## 🖼️ Preview
+## 📹 Project Demo
 
-<img src="https://via.placeholder.com/800x400?text=Demo+Image" alt="Demo Image" style="width: 100%; border: 1px solid #ccc;"/>
+Check out the live demo of **HelloVision** in action on YouTube:
+
+[![FaceWave Project Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+> Click the image or [here](https://www.youtube.com/watch?v=VIDEO_ID) to watch the video.
+
 
 ---
 
@@ -89,6 +94,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🧑‍💻 Author
 
 **Your Name**  
-- GitHub: [@riyan00b](https://github.com/yourusername)
+- GitHub: [@riyann00b](https://github.com/riyann00b)
 - Email: riyannazeer786@gmail.com
-- LinkedIn: [MD Riyan Nazeer](https://linkedin.com/in/yourprofile)
+- LinkedIn: [MD Riyan Nazeer](https://www.linkedin.com/in/md-riyan-nazeer/)
