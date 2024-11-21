@@ -56,7 +56,7 @@ Customize the behavior by modifying the variables in the script:
 
 ## 📹 Project Demo
 
-Check out the live demo of **HelloVision** in action on YouTube:
+Check out the live demo of **HelloVision** in action:
 
 [![FaceWave Project Demo](https://roc.ai/wp-content/uploads/2018/11/howfrworks-980x491.png.webp)](https://drive.google.com/file/d/1u1ZDGnpaYCo1Vv1nmDENiWSrL8MKpGj7/view?usp=drive_link)
 
