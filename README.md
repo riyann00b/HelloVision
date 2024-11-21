@@ -60,7 +60,7 @@ Check out the live demo of **HelloVision** in action:
 
 [![FaceWave Project Demo](https://roc.ai/wp-content/uploads/2018/11/howfrworks-980x491.png.webp)](https://drive.google.com/file/d/1u1ZDGnpaYCo1Vv1nmDENiWSrL8MKpGj7/view?usp=drive_link)
 
-> Click the image or [here](https://www.youtube.com/watch?v=VIDEO_ID) to watch the video.
+> Click the image or [here](https://drive.google.com/file/d/1u1ZDGnpaYCo1Vv1nmDENiWSrL8MKpGj7/view?usp=drive_link) to watch the video.
 
 
 ---
